@@ -7,10 +7,14 @@
   * Propellers
   * Dc motors, Remote controller
 * Software 
-  * YOLO
+  * YOLO v3
   * CNN
   * openCV
   * MATLAB
+
+# Yolo v3 (You look only once) <br/>
+You Only Look Once is one of the object detection algorithms. It uses single Convolutional neural network which simultaneously predicts multiple bounding boxes and class
+probabilities for these boxes. It allows model to look at the whole image at the test time. In YOLO prediction is based on 1x1 convolutions. 
 
 ## Introduction : <br/>
 Trash accumulation in water bodies adversely affect the marine ecosystems and pose a
