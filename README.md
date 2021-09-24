@@ -12,7 +12,10 @@ underwater vehicles for trash detection and removal
 3. To make the robot capable of finding and collecting certain kinds of trash like small
 plastic covers and bottle caps floating on the surface of water.
 
-## System Overview :
+## System Overview : <br/>
+The project can be divided into mainly three parts. First part is the robot design which
+includes motion control of the robot. Second part is to detect the debris and the third
+part is to collect the debris based on the detection results.
 
 
 
