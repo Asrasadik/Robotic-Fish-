@@ -33,7 +33,8 @@ part is to collect the debris based on the detection results.<br/>
 ![Block Diagram](system.png)
 
 
-
+## Result <br/>
+![Robot](Robot.jpeg)
 
 ## Links : 
 1. Object detection using OpenCV - https://www.pyimagesearch.com/2017/10/16/raspberry-pi-deep-learning-object-detection-with-opencv/
