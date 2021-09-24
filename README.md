@@ -1,4 +1,17 @@
 # Robotic Fish 🐟
+
+## Tools Used ⚙️ 🛠️<br/>
+* Hardware 
+  * Raspberry Pi with camera
+  * Conveyor Belt
+  * Propellers
+  * Dc motors, Remote controller
+* Software 
+  * YOLO
+  * CNN
+  * openCV
+  * MATLAB
+
 ## Introduction : <br/>
 Trash accumulation in water bodies adversely affect the marine ecosystems and pose a
 long-term threat to aquatic species. This vast amount of trash in the water sources
