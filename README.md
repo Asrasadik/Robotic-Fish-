@@ -15,7 +15,9 @@ plastic covers and bottle caps floating on the surface of water.
 ## System Overview : <br/>
 The project can be divided into mainly three parts. First part is the robot design which
 includes motion control of the robot. Second part is to detect the debris and the third
-part is to collect the debris based on the detection results.
+part is to collect the debris based on the detection results.<br/>
+
+![Block Diagram](system.png)
 
 
 
