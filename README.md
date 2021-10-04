@@ -11,6 +11,8 @@
   * CNN
   * openCV
   * MATLAB
+* Materials used
+  * foam material for body (to float)
 
 # Yolo v3 (You look only once) <br/>
 You Only Look Once is one of the object detection algorithms. It uses single Convolutional neural network which simultaneously predicts multiple bounding boxes and class
